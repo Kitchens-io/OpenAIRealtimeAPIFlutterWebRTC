@@ -1,0 +1,2 @@
+/Users/edmendoza/github/kitchens-io/OpenAIRealtimeAPIFlutterWebRTC/android/app/.cxx/Debug/w4m4u3g2/x86/CMakeFiles/edit_cache.dir
+/Users/edmendoza/github/kitchens-io/OpenAIRealtimeAPIFlutterWebRTC/android/app/.cxx/Debug/w4m4u3g2/x86/CMakeFiles/rebuild_cache.dir

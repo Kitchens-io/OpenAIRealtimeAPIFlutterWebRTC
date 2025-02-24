@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Users/edmendoza/development/flutter/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/edmendoza/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/edmendoza/github/kitchens-io/OpenAIRealtimeAPIFlutterWebRTC/android/app/.cxx/Debug/w4m4u3g2/armeabi-v7a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/edmendoza/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/edmendoza/github/kitchens-io/OpenAIRealtimeAPIFlutterWebRTC/android/app/.cxx/Debug/w4m4u3g2/armeabi-v7a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}
